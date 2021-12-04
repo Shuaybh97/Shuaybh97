@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shuaib Hussein.
 - 👀 I’m interested in the DevOps/Cloud industry
-- 🌱 I’m currently learning Python, Linux, Microsoft Azure.
+- 🌱 I’m currently learning Python, Linux, Git, and Microsoft Azure.
 - 💞️ I’m looking to collaborate on projects which use DevOps/Cloud tools
 - 📫 How to reach me: Linkedin: https://uk.linkedin.com/in/shuayb-hussein-498160175
 
