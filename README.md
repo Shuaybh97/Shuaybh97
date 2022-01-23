@@ -6,7 +6,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Get Scheduled - An Overview](https://medium.com/@hudeyfa.jama/get-scheduled-an-overview-f9dbd02a44ef)
+[Get Scheduled - An Overview](https://medium.com/@shuaibh97/get-scheduled-an-overview-939a006d845b)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
